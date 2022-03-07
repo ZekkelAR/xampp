@@ -15,7 +15,7 @@ def banner():
 \033[0;33m[*] XAMP AUTO EXPLOITER [*]
 \033[36m[*] C0D3D By : \033[0;33m M0nalisa ( ./Serizawa ) 
 \033[36m[*] Family Attack Cyber
-FA HAXOR ~ DANN ~ FAISAL ~ AALEX ~ SULTON ~ AGO OENG ~ BACOD LO 
+FA HAXOR ~ DANN ~ FAISAL ~ AALEX ~ SULTON ~ AGO OENG
 """)
 
 def menu():
